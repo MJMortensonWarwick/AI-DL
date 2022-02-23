@@ -1,2 +1,2 @@
 # AI-DL
-Notebooks for the Artificial Intelligence &amp; Deep Learning Module
+Notebooks for the Artificial Intelligence &amp; Deep Learning module
